@@ -5,7 +5,7 @@
         $servername = "sql204.epizy.com";
         $username   = "epiz_26098380";
         $password   = "QOCxmRKbGOwa3";
-        $database   = "epiz_26080696_sust_empresa";
+        $database   = "epiz_26098380_sust_empresa";
 
         try { //TRATAMENTO DE EXCESSÕES - POSSIVEIS ERROS
         $conn = new PDO("mysql:host=$servername;dbname=$database; charset=utf8", $username, $password);
