@@ -2,9 +2,9 @@
 
     //CONEXÃO BANCO DE DADOS
     function connection(){
-        $servername = "sql212.epizy.com";
-        $username   = "epiz_26080696";
-        $password   = "Am1RhlXqNMEH2oc";
+        $servername = "sql204.epizy.com";
+        $username   = "epiz_26098380";
+        $password   = "QOCxmRKbGOwa3";
         $database   = "epiz_26080696_sust_empresa";
 
         try { //TRATAMENTO DE EXCESSÕES - POSSIVEIS ERROS
