@@ -28,7 +28,7 @@
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 
   <!-- Icone da Pagina--> 
-  <link rel="icon" href="dist/img/ecolo.ico">
+  <link rel="icon" href="dist/img/logo.ico">
 
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">

@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="plugins/toastr/toastr.min.css">
 
     <!-- Icone da Pagina--> 
-  <link rel="icon" href="dist/img/ecolo.ico">
+  <link rel="icon" href="dist/img/logo.ico">
 
     </head>
     <body class="hold-transition sidebar-mini layout-fixed">

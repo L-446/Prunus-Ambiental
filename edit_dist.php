@@ -47,7 +47,7 @@
   <title> Prunus Ambiental </title>
  
   <!-- Icone da Pagina--> 
-  <link rel="icon" href="dist/img/ecolo.ico">
+  <link rel="icon" href="dist/img/logo.ico">
 
   <?php
     
