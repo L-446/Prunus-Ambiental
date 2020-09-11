@@ -1,5 +1,5 @@
 <footer class="main-footer">
-    <strong>Copyright &copy; 2020 <i class="fab fa-github-square"></i> <a href="https://github.com/L-446/loja.git" target="_blank">Leticia Gomes</a>.</strong>
+    <strong>Copyright &copy; 2020 <i class="fab fa-github-square"></i> <a href="https://github.com/L-446/Prunus-Ambiental.git" target="_blank">Leticia Gomes</a>.</strong>
     All rights reserved.
     
   </footer>
